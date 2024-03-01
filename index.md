@@ -3,8 +3,21 @@
 Winnipeg, Manitoba  
 Email: logan.doran.01@gmail.com  
 Phone: (612) 308 2603  
-LinkedIn: [linkedin.com/in/logan-doran](linkedin.com/in/logan-doran)  
-GitHub: [github.com/loganDoran](github.com/loganDoran)  
+LinkedIn: [linkedin.com/in/logan-doran](www.linkedin.com/in/logan-doran)  
+GitHub: [github.com/loganDoran](www.github.com/loganDoran) 
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## EDUCATION
 
@@ -12,19 +25,6 @@ GitHub: [github.com/loganDoran](github.com/loganDoran)
 Bachelor of Science, Major in Computer Science, Minor in Music  
 Expected Graduation: May 2024  
 Key Courses: Software Engineering 1, Object Orientation (C, Java, and JavaScript), Data Structures and Algorithms (Java), Databases Concepts and Usage, Analysis of Algorithms, Project Management.  
-
-## LANGUAGES & SKILLS
-
-- Java
-- C#
-- SQL
-- HTML
-- CSS
-- R
-- Git
-- Gitlab
-- Azure DevOps
-- Agile
 
 ## EXPERIENCE
 
