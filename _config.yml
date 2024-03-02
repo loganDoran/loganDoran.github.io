@@ -1,10 +1,10 @@
-title: no style, please! # name of the site
+title: Logan Doran # name of the site
 author: Logan Doran # name of site's author
 email: logan.doran.01@gmail.com # email of site's author
 url: https://logandoran.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+  Recent graduate in Computer Science with a talent for problem-solving and collaboration. International exposure and a passion for technology drive my quest for innovative solutions. Eager to apply skills in software engineering and project management to make meaningful contributions in the industry.
 
 favicon: "favicon.png" # name+extension of favicon (which must be put on the root folder)
 goat_counter: "logdog" # put your GoatCounter name if you want to use GoatCounter analytics
@@ -19,7 +19,3 @@ theme_config:
 
 sass:
   style: :compressed
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
