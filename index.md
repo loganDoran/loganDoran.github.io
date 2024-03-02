@@ -7,8 +7,8 @@ title: Logan Doran
 [LinkedIn](https://www.linkedin.com/in/logan-doran/) [GitHub](https://github.com/loganDoran)   
 Location: Winnipeg, Manitoba  
 Email: logan.doran.01@gmail.com  
-Phone: (612) 308 2603
-[Download resume](resume.pdf)
+Phone: (612) 308 2603   
+[Download CV](resume.pdf)
 
 ---
 
