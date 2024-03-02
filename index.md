@@ -1,63 +1,85 @@
-# Logan Doran
+## Logan Doran
 
-Winnipeg, Manitoba  
+Location: Winnipeg, Manitoba  
 Email: logan.doran.01@gmail.com  
-Phone: (612) 308 2603  
-LinkedIn: [linkedin.com/in/logan-doran](linkedin.com/in/logan-doran)  
-GitHub: [github.com/loganDoran](github.com/loganDoran)  
+Phone: (612) 308 2603
 
-## EDUCATION
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logan-doran/)[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loganDoran)
+---
+
+### EDUCATION
 
 **University of Manitoba**, Winnipeg, MB  
 Bachelor of Science, Major in Computer Science, Minor in Music  
 Expected Graduation: May 2024  
-Key Courses: Software Engineering 1, Object Orientation (C, Java, and JavaScript), Data Structures and Algorithms (Java), Databases Concepts and Usage, Analysis of Algorithms, Project Management.  
 
-## LANGUAGES & SKILLS
+**Key Courses:**   
+Software Engineering   
+Object Orientation (C, Java, and JavaScript)   
+Data Structures and Algorithms (Java)   
+Analysis of Algorithms   
+Operating Systems (C\)
 
-- Java
-- C#
-- SQL
-- HTML
-- CSS
-- R
-- Git
-- Gitlab
-- Azure DevOps
-- Agile
+---
 
-## EXPERIENCE
+### TECHNICAL SKILLS
 
-**Beckman Coulter Diagnostics:** Software Engineering Intern | Remote | June – August 2023
+**Languages:** Java, C#, HTML, R  
+**Frameworks:** React, .Net  
+**Libraries:** Bootstrap, jQuery  
+**Development Tools:** Git, Gitlab, Azure DevOps  
+
+---
+
+### EXPERIENCE
+
+**Teaching Assistant (TA) - Professional Practices in Computer Science**  
+University of Manitoba | Winnipeg, MB | September 2023 - Present 
+- Responsible for grading and overseeing group presentations and quizzes.
+- Manage attendance, grade concerns, and general questions for students.
+- Assist in fostering a conducive learning environment for students.
+
+**Software Engineering Intern**  
+Beckman Coulter Diagnostics | Remote | June – August 2023  
 - Collaborated as an integral member of an agile development team, actively participating in daily stand-ups, sprint planning, and retrospective meetings to drive the development of a web-based application.
 - Actively sought feedback from mentors and team members, continually honing my C# proficiency and expanding my technical skill set to deliver high-quality solutions.
 
-**Youth for Understanding - Estonia:** Technology Intern | Tallinn, Estonia | June – December 2022
+**Technology Intern**  
+Youth for Understanding - Estonia | Tallinn, Estonia | June – December 2022  
 - Streamlined data imports and exports on an internal database using SQL.
 - Developed and implemented automated solutions for annual statistic calculations.
 - Drove content management improvements, resulting in increased efficiency and organization.
 
-**CVS Pharmacy:** Pharmacy Technician | Saint Paul, MN | April – August 2021
+**Pharmacy Technician**  
+CVS Pharmacy | Saint Paul, MN | April – August 2021  
 - Contributed to the efficient filling of over 150 prescriptions daily.
 - Thoroughly reviewed and verified customer and insurance provider information.
 - Resolved non-routine issues, including third-party billing, computer system troubleshooting, and customer service matters.
 
-**RHR Information Services:** Verification Specialist | Edina, MN | May – August 2019
-- Validated rental application details, providing accurate and timely assistance to landlords.
-- Maintained strict adherence to procedures for safeguarding sensitive applicant information.
-- Conducted over 200 calls daily, meticulously documenting collected data in a proprietary company program.
+---
 
-## PROJECTS
+### PROJECTS
 
-**MusicLoud** | Team of 4
-- Developed MusicLoud's backend in Java, following a three-tier architecture, including presentation, logic, and data layers.
-- Actively contributed to the project team, facilitating efficient teamwork, and achieving project goals.
-- Utilized: Java, Android Studio, HSQLDB, GitLab, HTML, CSS.
+[**MusicLoud**](https://github.com/loganDoran/MusicLoud) | Team of 4  
+- Led backend development in Java, adhering to a three-tier architecture.
+- Collaborated closely with frontend team for seamless integration.
+- Contributed actively to team discussions and Agile processes.
+- Utilized: Java, Android Studio, HSQLDB, GitLab, HTML/CSS.
 
-## AFFILIATIONS AND INTERESTS
+[**Canadian Grain Commission data visualization tool**](https://github.com/ishraqn/CGC-DataVizTool) | Team of 4  
+- Developed a web-based data visualization tool using React, Leaflet, and TypeScript.
+- Implemented features such as data upload, color customization, and choropleth mapping.
+- Led full-stack development efforts to enhance user experience and analytical capabilities.
+- Utilized: TypeScript, React, Leaflet, GitHub, HTML/CSS
+
+---
+
+### AFFILIATIONS AND INTERESTS
 
 - Woman in Computer Science | Member | University of Manitoba
 - Computer Science Student Association | Member | University of Manitoba
 - Youth for Understanding | Volunteer | Remote
 
-Motivated recent graduate with a strong foundation in Computer Science, seeking opportunities to apply academic knowledge in real-world settings. Brings global perspective from having lived, worked, and studied internationally.
+---
+
+Dynamic recent graduate in Computer Science with a flair for problem-solving and collaboration. International exposure and a passion for technology drive my quest for innovative solutions. Eager to apply skills in software engineering and project management to make meaningful contributions in the industry.
