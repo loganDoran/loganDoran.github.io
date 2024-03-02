@@ -1,10 +1,8 @@
-layout: home
 ---
+[LinkedIn](https://www.linkedin.com/in/logan-doran/) [GitHub](https://github.com/loganDoran)   
 Location: Winnipeg, Manitoba  
 Email: logan.doran.01@gmail.com  
 Phone: (612) 308 2603
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logan-doran/)[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loganDoran)
 ---
 
 ### EDUCATION
