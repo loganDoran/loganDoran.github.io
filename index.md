@@ -80,10 +80,9 @@ CVS Pharmacy | Saint Paul, MN | April – August 2021
 
 ### AFFILIATIONS AND INTERESTS
 
-- Woman in Computer Science | Member | University of Manitoba
-- Computer Science Student Association | Member | University of Manitoba
-- Youth for Understanding | Volunteer | Remote
+- Woman in Computer Science \| Member \| University of Manitoba
+- Computer Science Student Association \| Member \| University of Manitoba
+- Youth for Understanding \| Volunteer \| Remote
 
 ---
 
-Dynamic recent graduate in Computer Science with a flair for problem-solving and collaboration. International exposure and a passion for technology drive my quest for innovative solutions. Eager to apply skills in software engineering and project management to make meaningful contributions in the industry.
