@@ -1,5 +1,5 @@
-## Logan Doran
-
+layout: home
+---
 Location: Winnipeg, Manitoba  
 Email: logan.doran.01@gmail.com  
 Phone: (612) 308 2603
