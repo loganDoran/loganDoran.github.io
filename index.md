@@ -39,7 +39,7 @@ Operating Systems (C\)
 ### EXPERIENCE
 
 **Teaching Assistant (TA) - Professional Practices in Computer Science**  
-University of Manitoba | Winnipeg, MB | September 2023 - Present 
+University of Manitoba | Winnipeg, MB | January 2024 - Present 
 - Responsible for grading and overseeing group presentations and quizzes.
 - Manage attendance, grade concerns, and general questions for students.
 - Assist in fostering a conducive learning environment for students.
