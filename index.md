@@ -84,5 +84,3 @@ CVS Pharmacy | Saint Paul, MN | April – August 2021
 - Computer Science Student Association \| Member \| University of Manitoba
 - Youth for Understanding \| Volunteer \| Remote
 
----
-
