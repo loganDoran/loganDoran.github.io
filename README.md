@@ -10,7 +10,40 @@ To follow this guide, you need:
 - A GitHub account
 - Basic knowledge of Markdown syntax
 
-For a Markdown tutorial, see the 'more resources' section below.
+For a Markdown tutorial, see the '[more resources](#more-resources)' section below.
+## Instructions
+
+### Step 1: Prepare Your Resume
+Using a lightweight markup language, such as markdown, allows for easy and clean formatting. Define your audience and ensure your resume is written accordingly. Ensure your resume is formatted correctly in Markdown. Include all relevant sections such as education, experience, skills, etc.
+
+1. Identify your target audience: Consider the industry, role, and level of expertise of your potential employers. Tailor your resume to highlight experiences and skills relevant to their needs.
+2. Structure your resume: Organize your resume into clear sections such as Education, Work Experience, Skills, and Certifications. Use bullet points for readability and clarity.
+3. Highlight achievements: Focus on quantifiable achievements and results to demonstrate your impact in previous roles.
+4. Proofread and edit: Review your resume for grammatical errors, typos, and formatting inconsistencies. Consider seeking feedback from peers or mentors.
+
+### Step 2: Set Up GitHub Pages
+Hosting your resume on a distributed version control system, such as GitHub, allows for version control and collaboration on the site.
+1. Log in to your GitHub account.
+2. Create a new repository with the name `username.github.io`, replacing `username` with your GitHub username.
+3. Upload your Markdown resume file to this repository.
+
+### Step 3: Configure Repository Settings
+1. In your repository, go to the "Settings" tab.
+2. Scroll down to the "GitHub Pages" section.
+3. Under "Source," choose the branch where you have your resume file (usually "main" or "master").
+4. Click "Save."
+
+### Step 4: Verify Your Website
+1. After saving the settings, GitHub Pages will provide you with a URL for your hosted resume.
+2. Visit the provided URL to verify that your resume is displayed correctly.
+
+### Step 5: Customize Your Resume
+Utilize Jekyll as a static site generator for efficient document formatting.
+1. Create a `_config.yml` file: In your repository, create a file named `_config.yml` if one does not already exist.
+2. Add theme configuration: Inside the `_config.yml` file, include the following line to specify the theme for your resume: `theme: [theme_name]`Replace `[theme_name]` with the name of the Jekyll theme you want to use. Alternatively, if you prefer to use a remote theme hosted on GitHub, use the following line: `remote_theme: [username/theme_name]` Replace `[username/theme_name]` with the GitHub username and theme repository name.
+3. Save the changes: Commit the `_config.yml` file to your repository to apply the theme configuration.
+4. Preview your resume: View your resume locally to see how the selected theme affects its appearance.
+5. Customize further (optional): Explore additional customization options available for the chosen theme, such as color schemes, fonts, and layout configurations. Update the `_config.yml` file accordingly to reflect your preferences.
 
 ## More Resources
 - [Markdown Tutorial](https://markdowntutorial.com/)
