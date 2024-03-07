@@ -1,9 +1,8 @@
 # Hosting Your Resume on GitHub Pages
-![](resumeGif.gif)
-
+## Purpose
 This README provides instructions for hosting a resume on GitHub Pages while demonstrating technical writing principles from "Modern Technical Writing" by Andrew Etter.   
 
-
+![](resumeGif.gif)
 ## Prerequisites
 To follow this guide, you need:
 - A resume formatted in Markdown
