@@ -1,5 +1,5 @@
 # Hosting Your Resume on GitHub Pages
-![](screenGif.gif)
+![](resumeGif.gif)
 
 This README provides instructions for hosting a resume on GitHub Pages while demonstrating technical writing principles from "Modern Technical Writing" by Andrew Etter.   
 
