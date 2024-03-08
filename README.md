@@ -44,8 +44,8 @@ Special thanks to (person who does peer review) for their feedback and support.
 
 ## FAQs
 
-### Q1: Why is Markdown better than a word processor?
+### Why is Markdown better than a word processor?
 Markdown offers a lightweight and easy-to-read syntax for formatting text without the distractions of complex word processors. It also integrates seamlessly with version control systems like Git.
 
-### Q2: Why is my resume not showing up?
+### Why is my resume not showing up?
 Ensure that your Markdown file is named correctly (`index.md`) and located in the correct repository branch. Also, check the repository settings to ensure GitHub Pages is enabled and configured correctly.
