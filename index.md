@@ -9,7 +9,7 @@ Email: logan.doran.01@gmail.com
 Phone: (612) 308 2603   
 [Download CV](resume.pdf)
 
---
+---
 
 ### EDUCATION
 
