@@ -43,7 +43,7 @@ Markdown, a lightweight markup language recommended by Etter in "Modern Technica
 2. Select the 'create file' from the 'add file' drop down.   
 ![](media/create-file.png)
 4. Change the name of this file to `_config.yml`. Right below the navigation bar there is a text box to enter your file name.
-5. Include the following line in this file to specify the theme for your resume: `theme: [theme_name]` Replace `[theme_name]` with the name of the Jekyll theme you want to use. (You can explore the available themes [here](https://pages.github.com/themes/)).
+5. Include the following line in this file to specify the theme for your resume: `theme: jekyll-theme-[theme_name]` Replace `[theme_name]` with the name of the Jekyll theme you want to use. (You can explore the available themes [here](https://pages.github.com/themes/)).
 7. Commit the `_config.yml` file to your repository by clicking 'commit changes...' near the top right of the page.
 ![](media/config.jpeg)
 9. Click 'commit changes' in the next pop up.
