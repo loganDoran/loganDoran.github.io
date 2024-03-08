@@ -25,8 +25,6 @@ For a Markdown tutorial, see the '[more resources](#more-resources)' section bel
 7. Click the 'create repository' button near the bottom of the page.
 ![](media/New-repository.jpeg)
 
-
-
 Hosting your resume on a distributed version control system, such as GitHub, allows for version control and collaboration on the site. This aligns with Andrew Etter's principle of using distributed version control systems to manage technical documentation.
 <!-- share/host on a distributed control system -->
 
@@ -51,7 +49,6 @@ Markdown, a lightweight markup language recommended by Etter in "Modern Technica
 9. Click 'commit changes' in the next pop up.
 ![](media/New-commit.jpeg)
 
-
 Formatting a document with a static site generator, such as Jekyll, enables consistent and professional-looking presentation of your resume, aligning with the principles Etter outlines in his book.
 <!-- Format a document with a static site generator -->
 
@@ -64,6 +61,11 @@ You can add a more customized appearance to your resume by exploring remote them
 4. Save the `_config.yml` file and commit the changes to your repository.
 
 Exploring remote themes allows you to enhance the visual appeal of your resume while keeping the benefits of static site generation, in line with the principles advocated by Andrew Etter in "Modern Technical Writing."
+
+### Demo
+Minimal theme              |  'No Theme Please' theme
+:-------------------------:|:-------------------------:
+![](media/minimal_gif.gif) |  ![](media/minimal_gif.gif)
 
 ## More Resources
 - [Markdown Tutorial](https://markdowntutorial.com/)
