@@ -1,8 +1,6 @@
 # Hosting Your Resume on GitHub Pages
 ## Purpose
 This README provides instructions for hosting a resume on GitHub Pages while demonstrating technical writing principles from "Modern Technical Writing" by Andrew Etter.   
-
-![](media/resumeGif.gif)
 ## Prerequisites
 To follow this guide, you need:
 - A resume formatted in Markdown
@@ -42,14 +40,14 @@ Markdown, a lightweight markup language recommended by Etter in "Modern Technica
 1. Click the 'add file' button on the main page of your repository.   
 2. Select the 'create file' from the 'add file' drop down.   
 ![](media/create-file.png)
-4. Change the name of this file to `_config.yml`. Right below the navigation bar there is a text box to enter your file name.
+4. Change the name of this file to `_config.yml`. Right below the navigation bar, there is a text box to enter your file name.
 5. Include the following line in this file to specify the theme for your resume: `theme: jekyll-theme-[theme_name]` Replace `[theme_name]` with the name of the Jekyll theme you want to use. (You can explore the available themes [here](https://pages.github.com/themes/)).
 7. Commit the `_config.yml` file to your repository by clicking 'commit changes...' near the top right of the page.
 ![](media/j-config.jpeg)
 9. Click 'commit changes' in the next pop up.
 ![](media/New-commit.jpeg)
 
-Formatting a document with a static site generator, such as Jekyll, enables consistent and professional-looking presentation of your resume, aligning with the principles Etter outlines in his book.
+Formatting a document with a static site generator, such as Jekyll, enables a consistent and professional-looking presentation of your resume, aligning with the principles Etter outlines in his book.
 <!-- Format a document with a static site generator -->
 
 ### Optional: Explore Remote Themes
@@ -63,7 +61,8 @@ You can add a more customized appearance to your resume by exploring remote them
 Exploring remote themes allows you to enhance the visual appeal of your resume while keeping the benefits of static site generation, in line with the principles advocated by Andrew Etter in "Modern Technical Writing."
 
 ### Demo
-Minimal theme              |  'No Theme Please' theme
+See the same resume below with two different themes. The 'minimal' theme is one built into GitHub pages, while 'no theme please' is considered remote as it was created by a third party (someone not associated with Jekyll or GitHub).   
+['Minimal'](https://github.com/pages-themes/minimal)             |  ['No Theme Please' theme](https://github.com/riggraz/no-style-please)
 :-------------------------:|:-------------------------:
 ![](media/minimal_gif.gif) |  ![](media/no-theme.gif)
 
@@ -77,18 +76,18 @@ Minimal theme              |  'No Theme Please' theme
 ## Authors and Acknowledgments
 **Authors**: Logan Doran   
 **Acknowledgments**:    
-An acknowledgement to Andrew Etter and his book Modern Technical Writing as it was used to support much of this README.   
-A thank you to Riccardo Graziosi and all other contributers to the remote-theme 'No Style Please' for the creation and support of the theme used on my resume.   
-Finally, a special thanks to my group in COMP 3040 for their feedback and support.
-
+An acknowledgment to Andrew Etter and his book Modern Technical Writing as it was used to support much of this README.   
+A thank you to Riccardo Graziosi and all other contributors to the remote-theme 'No Style Please' for the creation and support of the theme used on my resume.   
+Finally, a special thanks to my group in COMP 3040 for their feedback and support.   
 
 ## FAQs
 
 ### Why should I choose Markdown over a word processor?
-Markdown provides a lightweight and intuitive syntax for text formatting, free from the clutter and complexity of traditional word processors. Additionally, it seamlessly integrates with version control systems such as Git, promoting collaborative editing and easy tracking of document changes.
+Markdown provides an easy syntax for text formatting, without the clutter and complexity of traditional word processors. In addition to this, Markdown also seamlessly integrates with version control systems like Git, which promotes collaboration and makes it easy to track changes to any document.
 
 ### Why isn't my resume appearing?
 To ensure your resume displays correctly, follow these steps:
 - Confirm that your Markdown file is named `index.md`.
 - Verify that the file is located in the appropriate branch of your repository.
 - Check your repository settings to ensure that GitHub Pages is activated and configured properly.
+- Wait a minute or two. It can take some time for github to build and deploy your website.
