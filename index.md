@@ -1,5 +1,8 @@
---
-
+---
+layout: home
+title: Logan Doran
+---
+---
 [LinkedIn](https://www.linkedin.com/in/logan-doran/) [GitHub](https://github.com/loganDoran)   
 Location: Winnipeg, Manitoba  
 Email: logan.doran.01@gmail.com  
